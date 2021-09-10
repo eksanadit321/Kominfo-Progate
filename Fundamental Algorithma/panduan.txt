@@ -1,0 +1,6 @@
+Cara installnya mirip seperti cara install yang ada di video. Hanya beda dikit saja.
+
+Lebih lengkapnya ada di sini ya : 
+https://ajpshare.wordpress.com/2017/11/22/cara-install-sql-server-2008/
+
+Untuk SSMS nya sama saja seperti yang 64 bit. Hanya beda di Sql Servernya saja
