@@ -1,0 +1,14 @@
+h1 {
+    color:blue  ;
+}
+.aligment{
+    text-align: center;
+}
+
+
+.transformation{
+    text-transform: lowercase;
+}
+.spacing {
+    text-indent: 20px;
+}
